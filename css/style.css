@@ -1,0 +1,33 @@
+a{
+    text-decoration: none;
+    list-style: none;
+}
+
+#header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 5em;
+    border: 1px solid #000;
+}
+
+
+#brand{
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 13em;
+    position: fixed;
+}
+
+#login{
+    margin-right: 1em;
+    margin-left: 13em;
+    font-size: 2em;
+}
+#login a{
+    color: #000;
+}
+
+
+
